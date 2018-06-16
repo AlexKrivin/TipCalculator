@@ -1,0 +1,14 @@
+<resources>
+<string name="app_name">Tip Calculator</string>
+<string name="MainActivityTextViewTip">Tip</string>
+<string name="MainActivityTextViewBill">Bill Total</string>
+<string name="MainActivityTextViewTotal">Total</string>
+<string name="MainActivityTextViewCustom">Custom</string>
+<string name="MainActivityTextViewCustomTip">18%</string>
+<string name="MainActivityTextView10Percent">10%</string>
+<string name="MainActivityTextViewFifteen">15%</string>
+<string name="MainActivityTextViewTwenty">20%</string>
+<string name="MainActivityEditTextSpace"> </string>
+<string name="MainActivityEditTextZero">0.00</string>
+</resources>
+
